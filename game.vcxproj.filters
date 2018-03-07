@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="threadPool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hero.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IntroDisplay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="player_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GunBullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="threadPool.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hero.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IntroDisplay.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="player_1.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GunBullet.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="A:\openingimage1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\menuImage.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\Spaceship2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\Spaceship1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\1story.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\2story.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\3story.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\4story.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\menuImage.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\openingimage1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\openingimage2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\sbl.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\sbr.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\sfl.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\sfr.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\slm.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\slr.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\srl.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\srm.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\laser.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images_f\laserbeam.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="music_f\tittlemusic-2.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="music_f\tittlemusic.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="music_f\storymusic.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="music_f\mainMenuSong.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="music_f\mainMenuSong2.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="CHILLER.TTF">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+</Project>
