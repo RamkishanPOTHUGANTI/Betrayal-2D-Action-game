@@ -1,5 +1,5 @@
 # Betrayal-2D-Action-game
-concurrency-2 created by GitHub Classroom
+concurrency-2 created by GitHub Classroom in past
 
 BRIEF DESCRIPTION ABOUT GAME STORY :: The game "betrayal" is a dual player game . its a dual player game with 3 levels. level1 :: static enemies . level2 :: dynamic enemies. level3 :: fight between both players. Game moves forward as players destroy enemies.
 
